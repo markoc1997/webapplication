@@ -1,0 +1,189 @@
+/* Index */
+
+body {
+	
+margin:0px;
+padding:0px;
+
+}
+
+#position_div {
+	
+float:left; 
+width:24%;  
+border:0px solid black;
+	
+}
+
+
+#position_h1 {
+
+margin-left:30%;
+	
+}
+
+#position_include {
+
+border:0px solid black;
+float:left;
+margin-top:65px;
+margin-left:5px;
+	
+}
+
+
+/* Site_overview */
+
+#overwier_div {
+
+float:left;
+width:45%;
+border:0px solid black;
+overflow:hidden;
+	
+}
+
+
+#overwier_h1 {
+	
+margin-left:30%;	
+	
+}
+
+#div_select {
+	
+margin-left:20px;
+	
+}
+
+#span_select {
+	
+font-size:20px;
+margin-left:20px;
+	
+}
+
+#select_select {
+	
+height:21px;
+padding:0px;
+font-size:16px;
+	
+}
+
+
+
+/* Edditing */
+
+
+#div_edit {
+	
+float:left;
+width:30%;
+border:0px solid black;
+	
+}
+
+#h1_edit {
+
+margin-left:30%;
+	
+}
+
+#div_include {
+	
+margin-top:50px;
+border:0px solid black;
+float:left;
+
+}
+
+
+
+
+
+
+
+/* Edit_vesti */
+
+
+
+#divzasve {
+	
+border:1px solid none;
+width:760px;
+margin-left:500px;
+padding-top:20px;
+
+}
+
+textarea {
+resize: none;
+overflow: hidden;
+
+}
+
+
+
+#editvesti_form {
+	
+float:left;
+margin-top:50px;
+	
+}
+
+#editvesti_textarea {
+
+width:760px;
+font-size:2em;
+font-weight: bold;
+resize: none;
+font-family:arial;
+	
+}
+
+
+.div_paragraf {
+	
+margin-top:10px;
+	
+}
+
+
+#div_uvod {
+
+font-size:21px;
+width:100%;
+resize: none;
+font-family:arial;
+	
+}
+
+
+#editvesti_img {
+
+border-radius: 5px;
+width:760px;
+height:350px;
+	
+}
+
+.editvesti_pasus {
+
+width:100%;
+font-size:20px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

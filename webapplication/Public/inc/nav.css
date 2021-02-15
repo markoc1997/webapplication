@@ -1,0 +1,281 @@
+@media screen and (max-width: 1920px) {
+
+#navigacijaborder {
+
+border-bottom: 1px solid white;
+
+}
+
+#item1 {
+
+margin-top: 50px;
+
+}
+
+#item2 {
+
+margin-top: 50px;
+
+}
+
+#item3 {
+
+margin-top: 50px;
+
+}
+
+#item4 {
+
+margin-top: 50px;
+
+}
+
+#item5 {
+
+margin-top: 50px;
+
+}
+
+#item6 {
+
+margin-top: 50px;
+
+}
+
+#item7 {
+
+margin-top: 60px;
+
+}
+
+#item8 {
+
+margin-top: 60px;
+
+}
+
+
+#registrierung {
+
+font-size:16px;
+
+}
+
+#anmeldung {
+
+font-size:16px;
+
+}
+
+#registracija {
+
+margin-top:50px;
+
+}
+
+#registrierung{
+
+margin-top:50px;
+
+}
+
+#anmslika {
+
+margin-top:50px;
+
+}
+
+
+
+}
+
+@media screen and (max-width: 1199px) {
+
+
+#item0 {
+
+margin-top: 0px;
+
+}
+
+#item1 {
+
+margin-top: 50px;
+
+}
+
+#item2 {
+
+margin-top: 50px;
+
+}
+
+#item3 {
+
+margin-top: 50px;
+
+}
+
+#item4 {
+
+margin-top: 50px;
+
+}
+
+#item5 {
+
+margin-top: 50px;
+
+}
+
+#item6 {
+
+margin-top: 50px;
+
+}
+
+#item7 {
+
+margin-top: 30px;
+
+}
+
+
+
+#registrierung {
+
+font-size:16px;
+
+}
+
+#anmeldung {
+
+font-size:13px;
+
+}
+
+
+#registracija {
+
+margin-left:15px;
+margin-top:25px;
+
+}
+
+#anmslika {
+
+margin-left:15px;
+margin-top:26px;
+
+}
+
+
+#slikareg {
+
+margin-left:30px;
+
+}
+
+#slikaanm {
+
+margin-left:22px;
+
+}
+
+
+
+
+
+}
+
+@media screen and (max-width: 991px) {
+
+#navigacijaborder {
+
+border:0px solid white;
+
+}
+
+
+#item0 {
+
+margin-top: 0px;
+
+}
+
+#item1 {
+
+margin-top: 30px;
+
+}
+
+#item2 {
+
+margin-top: 30px;
+
+}
+
+#item3 {
+
+margin-top: 30px;
+
+}
+
+#item4 {
+
+margin-top: 30px;
+
+}
+
+#item5 {
+
+margin-top: 30px;
+
+}
+
+#item6 {
+
+margin-top: 30px;
+
+}
+
+#item7 {
+
+margin-top: 30px;
+
+}
+
+#item8 {
+
+margin-top: 30px;
+
+}
+
+#registracija {
+
+margin-left:0px;
+
+}
+
+#anmslika {
+
+margin-left:0px;
+
+
+}
+
+#slikareg {
+
+margin-left:0px;
+
+}
+
+
+
+#slikaanm {
+
+margin-left:0px;
+
+}
+
+}
